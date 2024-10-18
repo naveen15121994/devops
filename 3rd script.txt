@@ -1,0 +1,11 @@
+3rd script ( passing value in running time)
+
+#!/bin/bash
+
+name="$1"
+job="$2"
+
+echo "My name is $name"
+echo "Am working in $job"
+
+

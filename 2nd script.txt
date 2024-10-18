@@ -1,0 +1,9 @@
+2nd Script
+
+#!/bin/bash
+
+name="Naveen"
+job="IT"
+
+echo "My name is $name"
+echo "working as a $job"

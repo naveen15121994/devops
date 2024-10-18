@@ -1,0 +1,9 @@
+Wrtie a program for additin and subctraction of 2 numbers
+
+#!/bin/bash
+
+sum=$(($1 + $2))
+sub=$(($1 - $2))
+
+echo "Sum of two number is $sum"
+echo "subract of two numbers is $sub"
